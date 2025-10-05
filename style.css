@@ -10,7 +10,7 @@ body {
 }
 .player {
   text-align: center;
-  background: rgba(255, 255, 255, 0.1);
+  background: #d660c5;
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -27,7 +27,7 @@ body {
 }
 button {
   background: white;
-  color: #984ba2;
+  color: #000000;
   border: none;
   padding: 10px 15px;
   font-size: 20px;
@@ -37,7 +37,7 @@ button {
   transition: background 0.3s;
 }
 button:hover {
-  background: #e0d4f3;
+  background: #d660c5;
 }
 .timeline {
   display: flex;
